@@ -72,3 +72,10 @@ Crie um novo repositório no GitHub e faça os seguintes comando no bash para su
 
     2. 
     git push -u origin main# Documentacao-GitHub
+
+
+Caso de problema ao executar faça o seguinte comando
+
+    git remote remove origin
+
+    git remote add origin https://github.com/marlonassisdv/Documentacao-GitHub.git
